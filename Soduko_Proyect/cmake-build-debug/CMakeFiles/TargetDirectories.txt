@@ -1,0 +1,3 @@
+C:/Users/FortunatoAlvarado/CLionProjects/Soduko_Proyect/cmake-build-debug/CMakeFiles/Soduko_Proyect.dir
+C:/Users/FortunatoAlvarado/CLionProjects/Soduko_Proyect/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/FortunatoAlvarado/CLionProjects/Soduko_Proyect/cmake-build-debug/CMakeFiles/rebuild_cache.dir

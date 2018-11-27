@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/FortunatoAlvarado/CLionProjects/Soduko_Proyect/clasico.h
+
+C:/Users/FortunatoAlvarado/CLionProjects/Soduko_Proyect/main.cpp
+iostream
+-
+clasico.h
+C:/Users/FortunatoAlvarado/CLionProjects/Soduko_Proyect/clasico.h
+variante.h
+C:/Users/FortunatoAlvarado/CLionProjects/Soduko_Proyect/variante.h
+sudoku.h
+C:/Users/FortunatoAlvarado/CLionProjects/Soduko_Proyect/sudoku.h
+
+C:/Users/FortunatoAlvarado/CLionProjects/Soduko_Proyect/sudoku.cpp
+sudoku.h
+C:/Users/FortunatoAlvarado/CLionProjects/Soduko_Proyect/sudoku.h
+iostream
+-
+
+C:/Users/FortunatoAlvarado/CLionProjects/Soduko_Proyect/sudoku.h
+iostream
+-
+string
+-
+time.h
+-
+vector
+-
+variante.h
+C:/Users/FortunatoAlvarado/CLionProjects/Soduko_Proyect/variante.h
+clasico.h
+C:/Users/FortunatoAlvarado/CLionProjects/Soduko_Proyect/clasico.h
+
+C:/Users/FortunatoAlvarado/CLionProjects/Soduko_Proyect/variante.h
+
